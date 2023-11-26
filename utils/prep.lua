@@ -10,6 +10,7 @@ end
 
 local args = {...}
 
+-- TODO: Add other branches for other turtle purposes
 if args[1] == 'quarry' then
     Download("https://gist.githubusercontent.com/Liam-Malone/8432db923c725291ed021c9f207b0fbc/raw/9a45c5340fcc952b4af5a41ac71be70a265c11f7/quarry.blacklist", "quarry.blacklist" )
     Download("https://gist.githubusercontent.com/Liam-Malone/8432db923c725291ed021c9f207b0fbc/raw/9a45c5340fcc952b4af5a41ac71be70a265c11f7/quarry.conf", "quarry.conf" )
