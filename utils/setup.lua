@@ -1,5 +1,5 @@
-Quarry_BlackList_URL = "https://gist.githubusercontent.com/Liam-Malone/8432db923c725291ed021c9f207b0fbc/raw/9a45c5340fcc952b4af5a41ac71be70a265c11f7/quarry.blacklist"
-Quarry_Conf_URL = "https://gist.githubusercontent.com/Liam-Malone/8432db923c725291ed021c9f207b0fbc/raw/9a45c5340fcc952b4af5a41ac71be70a265c11f7/quarry.conf"
+Quarry_BlackList_URL = "https://gist.githubusercontent.com/Liam-Malone/8432db923c725291ed021c9f207b0fbc/raw/d61bea3952271e37da1330d9b0d1924a4bb00619/quarry.blacklist"
+Quarry_Conf_URL = "https://gist.githubusercontent.com/Liam-Malone/8432db923c725291ed021c9f207b0fbc/raw/d61bea3952271e37da1330d9b0d1924a4bb00619/quarry.conf"
 Quarry_URL = "https://pastebin.com/raw/rpXRAZs4"
 
 Help_Msg = "usage: setup <arg>\noptions:\ntargets - show targets available\nhelp - show this message"
