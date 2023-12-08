@@ -22,7 +22,7 @@ local argc = #args
 -- TODO: Add other branches for other turtle purposes
 if argc == 0 then
     print(Help_Msg)
-    os.exit(0)
+    return 0
 else
     if args[1] == 'quarry' then
         Download(Quarry_BlackList_URL, "quarry.blacklist" )
